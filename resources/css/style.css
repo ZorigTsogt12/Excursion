@@ -1,3 +1,33 @@
-p {
-    font-size: 30px;
+body {
+    background-color: black;
+    text-align: center;
+    color:white;
+    font-family: Verdana;
+}
+
+h1.head {
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+a.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2.main {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p.line {
+    font-size: 21px;
+    color: gray;
+}
+
+p.trademark {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
